@@ -2,7 +2,7 @@
 
 This repo exists for community members to track, communicate and work on tasks.
 
-## How to use this repo
+## How to Use This Repo
 
 1. If you need to get something done then simply [create an issue.](https://github.com/CodeForFoco/org/issues/new)
 1. If you want to do something then [tackle an issue.](https://github.com/CodeForFoco/org/issues)
