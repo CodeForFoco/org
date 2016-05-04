@@ -19,3 +19,17 @@ Want to join us?
 
 - Come to one of our regular meetings.
 - Hop on our [Slack channel](https://codeforfoco.slack.com) and introduce yourself.
+
+## Meeting Times
+
+Here is a succinct list of ongoing events, in the future this will be replaced by meetups and our website.
+
+#### Organizational Meeting
+
+- **Time:** 12:00PM every Friday
+- **Location:** Galvanize Fort Collins
+- **About:** A time to share ideas, create events, raise concerns, discuss operations and have an impact. If you want to help get involved this is a great place to start.
+
+#### Civic Hack Night
+
+- **TBA**
