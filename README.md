@@ -6,21 +6,21 @@ This repository serves as:
 - A digital space for community members to track, communicate and work on [issues(tasks)](https://github.com/CodeForFoco/org/issues).
 - A public location to post and collaborate on organizational documents.
 
-<a href="#usage"></a>
-## How to Use This Repo
+
+## How to Use This Repo <span id="usage"></span>
 
 1. If you need to get something done then simply [create an issue.](https://github.com/CodeForFoco/org/issues/new)
 1. If you want to do something then [tackle an issue.](https://github.com/CodeForFoco/org/issues)
 
-<a href="#about"></a>
-## About Code for Foco
+
+## About Code for Foco <span id="about"></span>
 
 We are programmers, designers, hackers, makers, tinkerers, writers and artists and we want to have an impact on the community around us.
 
 We are dedicated to using technology to solve everyday challenges that the people, non-profits, charities, schools, government and grassroots organizations of Fort Collins face.
 
-<a href="#join"></a>
-## Joining Code for Foco
+
+## Joining Code for Foco <span id="join"></span>
 
 Want to join us? Here are three ways to get started:
 
@@ -30,8 +30,8 @@ Want to join us? Here are three ways to get started:
 
 Be sure to read and understand our [Code of Conduct](/codeofconduct).
 
-<a href="#events"></a>
-## Events
+
+## Events <span id="events"></span>
 
 Here is a succinct list of ongoing events, in the future this will be replaced by meetups and our website.
 
