@@ -1,6 +1,9 @@
 # Code for Foco Organizational
 
-This repo exists for community members to track, communicate and work on tasks.
+This repository serves as:
+
+- A digital space for community members to track, communicate and work on [issues(tasks)](https://github.com/CodeForFoco/org/issues).
+- A public location to post and collaborate on organizational documents.
 
 ## How to Use This Repo
 
@@ -9,18 +12,22 @@ This repo exists for community members to track, communicate and work on tasks.
 
 ## About Code for Foco
 
-Code for Foco is a community of volunteers dedicated to using technology to solve everyday challenges that local non-profits, charities and other grassroots 'do-good' organizations face.
+We are programmers, designers, hackers, makers, tinkerers, writers and artists and we want to have an impact on the community around us.
 
-We are a community of programmers, designers, hackers, makers, tinkerers, writers and artists that all want to have an impact on the community around us.
+We are dedicated to using technology to solve everyday challenges that the people, non-profits, charities, schools, government and grassroots organizations of Fort Collins face.
 
 ## Joining Code for Foco
 
-Want to join us?
+Want to join us? Here are three ways to get started:
 
-- Come to one of our regular meetings.
+- Come say hi at one of our [events](#meetings).
 - Hop on our [Slack channel](https://codeforfoco.slack.com) and introduce yourself.
+- Email us at [people@codeforfoco.org](mailto:people@codeforfoco.org).
 
-## Meeting Times
+Be sure to read and understand our [Code of Conduct](/codeofconduct).
+
+<a href="events">
+## Events
 
 Here is a succinct list of ongoing events, in the future this will be replaced by meetups and our website.
 
@@ -30,6 +37,14 @@ Here is a succinct list of ongoing events, in the future this will be replaced b
 - **Location:** Galvanize Fort Collins
 - **About:** A time to share ideas, create events, raise concerns, discuss operations and have an impact. If you want to help get involved this is a great place to start.
 
+#### Pitch Night
+
+- **Time:** TBA
+- **Location:** TBA
+- **About:** Pitch project ideas, shake hands and drink beers. If we like a pitch, we take on the project.
+
 #### Civic Hack Night
 
-- **TBA**
+- **Time:** TBA
+- **Location:** TBA
+- **About:** Hack nights are a time for community to get together and use their creative and technical skills to bring a project to life.
