@@ -28,7 +28,7 @@ Want to join us? Here are three ways to get started:
 - Hop on our [Slack channel](https://codeforfoco.slack.com) and introduce yourself.
 - Email us at [people@codeforfoco.org](mailto:people@codeforfoco.org).
 
-Be sure to read and understand our [Code of Conduct](/codeofconduct).
+Be sure to read and understand our [Code of Conduct](/code_of_conduct).
 
 
 ## Events
