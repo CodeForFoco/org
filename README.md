@@ -2,15 +2,15 @@
 
 This repository serves as:
 
-- A a starting point for newcomers to learn [how to get involved](#joining-code-for-foco) or [what we are about](#about-code-for-foco)
+- A a starting point for newcomers to learn [how to get involved](#joining-code-for-foco) or [what we are about](#about-code-for-foco).
 - A digital space for community members to track, communicate and work on [issues(tasks)](https://github.com/CodeForFoco/org/issues).
 - A public location to post and collaborate on organizational documents.
 
 
 ## How to Use This Repo
 
-1. If you need to get something done then simply [create an issue.](https://github.com/CodeForFoco/org/issues/new)
-1. If you want to do something then [tackle an issue.](https://github.com/CodeForFoco/org/issues)
+1. If you need to get something done then simply [create an issue.](https://github.com/CodeForFoco/org/issues/new).
+1. If you want to do something then [tackle an issue.](https://github.com/CodeForFoco/org/issues).
 
 
 ## About Code for Foco
