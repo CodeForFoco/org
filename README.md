@@ -44,8 +44,8 @@ Here is a succinct list of ongoing events, in the future this will be replaced b
 
 #### Pitch Night
 
-- **Time:** TBA
-- **Location:** TBA
+- **Time:** Friday, July 7th, 2016
+- **Location:** Galvanize, Fort Collins
 - **About:** Pitch project ideas, shake hands and drink beers. If we like a pitch, we take on the project.
 
 #### Civic Hack Night
