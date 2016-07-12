@@ -20,6 +20,25 @@ We need to focus on acquiring a core team. Ideally we would have something along
 
 ## Education Roadmap
 
+TBA.
+
+Potentially get involved with
+
+- Poudre School District
+- CSU
+- Front Range Weblab
+- Fort Collins Creatorhub
+- Loveland Creatorspace
+
 ## Financial Roadmap
 
+TBA.
+
+Potentially get invovled with:
+
+- CA Tech
+- RefactorU
+
 ## Events Roadmap
+
+Establish regular intervals of hack the dot.

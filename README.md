@@ -11,7 +11,7 @@ This repository serves as:
 
 1. If you need to get something done then simply [create an issue.](https://github.com/CodeForFoco/org/issues/new).
 1. If you want to do something then [tackle an issue.](https://github.com/CodeForFoco/org/issues).
-
+1. Check directories for information our strategic plan, partnerships and projects.
 
 ## About Code for Foco
 
@@ -24,7 +24,9 @@ We are dedicated to using technology to solve everyday challenges that the peopl
 
 Want to join us? Here are three ways to get started:
 
-- Come say hi at one of our [events](#events).
+- Come say hi at one of our [events](http://www.meetup.com/Code-for-Fort-Collins/).
+- Like us on [Facebook](https://www.facebook.com/CodeforFoCo)
+- Follow us on [Twitter](https://twitter.com/codeforfoco)
 - Hop on our [Slack channel](https://codeforfoco.slack.com) and introduce yourself.
 - Email us at [people@codeforfoco.org](mailto:people@codeforfoco.org).
 - Tackle an issue on our [Github](https://github.com/CodeForFoco).
@@ -32,24 +34,9 @@ Want to join us? Here are three ways to get started:
 Be sure to read and understand our [Code of Conduct](/code_of_conduct).
 
 
-## Events
+## Social Media & Events
 
-Here is a succinct list of ongoing events, in the future this will be replaced by meetups and our website.
-
-#### Organizational Meeting
-
-- **Time:** 12:00PM every Friday
-- **Location:** Galvanize Fort Collins
-- **About:** A time to share ideas, create events, raise concerns, discuss operations and have an impact. If you want to help get involved this is a great place to start.
-
-#### Pitch Night
-
-- **Time:** Friday, July 7th, 2016
-- **Location:** Galvanize, Fort Collins
-- **About:** Pitch project ideas, shake hands and drink beers. If we like a pitch, we take on the project.
-
-#### Civic Hack Night
-
-- **Time:** TBA
-- **Location:** TBA
-- **About:** Hack nights are a time for community to get together and use their creative and technical skills to bring a project to life.
+- [Facebook](https://www.facebook.com/CodeforFoCo)
+- [Twitter](https://twitter.com/codeforfoco)
+- [Meetup](http://www.meetup.com/Code-for-Fort-Collins/)
+- [Github](https://github.com/CodeForFoco)

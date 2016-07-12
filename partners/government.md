@@ -9,6 +9,10 @@ POC:
 - Ginny Sawyer
 - David Young
 
+CFFC POC:
+
+- Jordan M.
+
 ## Discussion In-Progress
 
 ## Potential Future Partners
