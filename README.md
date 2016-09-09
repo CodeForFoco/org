@@ -33,6 +33,9 @@ Want to join us? Here are three ways to get started:
 
 Be sure to read and understand our [Code of Conduct](/code_of_conduct).
 
+## Contributing
+
+Want to contribute? We'd love your help, be sure to check out our [Contributing Guidelines](/CONTRIBUTING.md) for instructions.
 
 ## Social Media & Events
 
