@@ -1,11 +1,26 @@
 # Contributing to Code for Foco.
 
+- [Introduction](#intro)
+- [Tl;DR Contributing Guide](#tldr)
+- [Contributing Guide](#contributing)
+- [Git & Github Resources](#resources)
+
+## <a name="intro"></a> Introduction
+
 Everyone is welcome to come and contribute to our projects and improve Code for Fort Collins.
 
-We use a fork workflow, which is described below in the [How to Contribute Guide](#contribute). If for some reason you still feel lost, there are some resources related to the workflow that may help in the [Github & Git Resources](#resources) section.
+We use a fork / pull request workflow, a brief description can be found in our [TL;DR](#tldr); whereas, a more in depth guide is outlined in the [Contributing Guide](#contribute).
 
+If for some reason you still feel lost, there are some resources related to the workflow that may help in the [Git & Github Resources](#resources) section.
 
-## <a name="contribute"></a> How to Contribute Guide
+## <a name="tldr"></a> TL;DR Contributing Guide
+
+1. [Fork](https://help.github.com/articles/fork-a-repo/) this repository and clone your fork.
+1. Make a patch branch.
+1. Make changes, commit and push.
+1. Submit a pull request and your changes will be reviewed and merged.
+
+## <a name="contribute"></a> Contributing Guide
 
 First, `fork` the repository,
 
@@ -76,7 +91,7 @@ Finally, update your fork with the master branch of the original repo:
 git pull -ff upstream master
 ```
 
-## <a name="resources"></a> Github & Git Resources
+## <a name="resources"></a> Git & Github Resources
 
 If you are new to `git`, Github has several tutorials on what a fork is, how to fork, configure a remote and sync with a remote repository:
 
