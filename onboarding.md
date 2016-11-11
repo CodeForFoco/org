@@ -6,4 +6,4 @@ GETTING STARTED
 - Join the [Foco Slack Channel](https://codeforfocoslack.herokuapp.com)
 - Sign up for a [GitHub Account](https://github.com/join)
 - Set up [Git](https://www.freecodecamp.com/challenges/save-your-code-revisions-forever-with-git)
-- Clone the [Code For Code](https://github.com/CodeForFoco/codeforfoco.github.io) website repository to start a project
+- Clone the [Code For Foco](https://github.com/CodeForFoco/codeforfoco.github.io) website repository to start a project
