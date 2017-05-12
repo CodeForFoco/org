@@ -29,7 +29,7 @@ Welcome to the Code For Foco getting started page. These resources will help you
 1. Sign the Registry: [Code for Foco Registry](https://github.com/CodeForFoco/codeforfoco.github.io/tree/master/_posts/registry)
 1. Like us on
 
-Be sure to read and understand our [Code of Conduct](/code_of_conduct).
+Be sure to read and understand our [Code of Conduct](/code_of_conduct.md).
 
 ## Creating a new Project
 
