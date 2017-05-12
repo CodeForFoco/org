@@ -6,6 +6,6 @@ For the purposes of encouraging collaboration and allowing maximum visibility in
 4. In that GitHub repository for that project, add the following
     1. a description of the project
     1. the leads and all people who are currently working on it
-    1. a summary of how members are expect to communicate
+    1. a summary of how members can contribute
 4. Drop a link to the GitHub repository on the Slack channel you created in the second step
 5. (optional) Add a blog post announcing the project on the website
