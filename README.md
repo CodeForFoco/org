@@ -20,18 +20,30 @@ We are programmers, designers, hackers, makers, tinkerers, writers and artists a
 We are dedicated to using technology to solve everyday challenges that the people, non-profits, charities, schools, government and grassroots organizations of Fort Collins face.
 
 
-## Joining Code for Foco
+## Onboarding / Joining Code for Foco
 
-Want to join us? Here are three ways to get started:
+Welcome to the Code For Foco getting started page. These resources will help you begin contributing to the project. If you have any questions don’t hesitate to ask for assistance at the [Meet Up](http://www.meetup.com/Code-for-Fort-Collins/).
 
-- Come say hi at one of our [events](http://www.meetup.com/Code-for-Fort-Collins/).
-- Like us on [Facebook](https://www.facebook.com/CodeforFoCo)
-- Follow us on [Twitter](https://twitter.com/codeforfoco)
-- Hop on our [Slack channel](https://codeforfoco.slack.com) and introduce yourself.
-- Email us at [people@codeforfoco.org](mailto:people@codeforfoco.org).
-- Tackle an issue on our [Github](https://github.com/CodeForFoco).
+1. Join the [Foco Slack Channel](https://codeforfocoslack.herokuapp.com)
+1. Sign up for a [GitHub Account](https://github.com/join)
+1. Sign the Registry: [Code for Foco Registry](https://github.com/CodeForFoco/codeforfoco.github.io/tree/master/_posts/registry)
+1. Like us on
 
 Be sure to read and understand our [Code of Conduct](/code_of_conduct).
+
+## Creating a new Project
+
+Check out our [Project Template](https://github.com/CodeForFoco/project-template) and read through the instructions for details on what you need to do to create a new project. For the purposes of encouraging collaboration and allowing maximum visibility into what it going within the group, when starting a new Code for Fort Collins project, the following steps should be followed:
+
+1. Assign project leads (ideally you will have at least two)
+1. Create a Slack channel with the name of the project
+3. Create a GitHub repository for the project
+4. In that GitHub repository for that project, add the following
+    1. a description of the project
+    1. the leads and all people who are currently working on it
+    1. a summary of how members can contribute
+4. Drop a link to the GitHub repository on the Slack channel you created in the second step
+5. (optional) Add a blog post announcing the project on the website
 
 ## Contributing
 
