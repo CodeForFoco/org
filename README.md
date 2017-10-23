@@ -29,8 +29,6 @@ Welcome to the Code For Foco! These resources will help you begin contributing t
 1. Sign up for a [GitHub Account](https://github.com/join)
 1. Sign the Registry: [Code for Foco Registry](https://github.com/CodeForFoco/codeforfoco.github.io/tree/master/_posts/registry)
 
-Be sure to read and understand our [Code of Conduct](/code_of_conduct.md).
-
 ## Creating a new Project
 
 Check out our [Project Template](https://github.com/CodeForFoco/project-template) and read through the instructions for details on what you need to do to create a new project. For the purposes of encouraging collaboration and allowing maximum visibility into what it going within the group, when starting a new Code for Fort Collins project, the following steps should be followed:
