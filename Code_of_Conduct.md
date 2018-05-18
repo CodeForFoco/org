@@ -31,7 +31,7 @@ Harassment includes but is not limited to: offensive verbal or written comments 
 
 If a participant engages in harassing behavior, the organizers may take any action they deem appropriate, including warning the offender or expulsion from Code for Fort Collins network activities, events, and digital forums.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff or forum administrator immediately. You can contact them at people@codeforfoco or 317-937-5755. Event staff or forum administrators will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff or forum administrator immediately. You can contact them at people@codeforfoco.org or 970-829-8792. Event staff or forum administrators will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
 
 If you cannot reach an event organizer or forum administrator and/or it is an emergency, please call 911 and/or remove yourself from the situation.
 
@@ -39,7 +39,11 @@ You can also contact Code for Fort Collins about harassment at people@codeforfoc
 
 We value your attendance and hope that by communicating these expectations widely we can all enjoy a harassment-free environment.
 
-#### Email Template for Anti-Harassment Reporting
+# Reaching us for Anti-Harassment Reporting
+
+Please don't hestate to reach out if you ever feel like you've seen a violation of these policies.
+
+## Email Example
 
 SUBJECT: Safe Space alert at [EVENT NAME]
 
@@ -47,7 +51,7 @@ I am writing because of harassment at a Code for Fort Collins event, (NAME, PLAC
 
 You can reach me at [your contact info]. Thank you.
 
-## Thanks To...
+# Thanks To...
 
 This anti-harassment policy is based on <a href="http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy">the example policy</a> from the Geek Feminism wiki, created by the Ada Initiative and other volunteers.
 
