@@ -1,33 +1,28 @@
-# Code for Foco Organizational
-
-This repository serves as:
-
-- A a starting point for newcomers to learn [how to get involved](#joining-code-for-foco) or [what we are about](#about-code-for-foco).
-- A digital space for community members to track, communicate and work on [issues(tasks)](https://github.com/CodeForFoco/org/issues).
-- A public location to post and collaborate on organizational documents.
-
-
-## How to Use This Repo
-
-1. If you need to get something done then simply [create an issue.](https://github.com/CodeForFoco/org/issues/new).
-1. If you want to do something then [tackle an issue.](https://github.com/CodeForFoco/org/issues).
-1. Check directories for information our strategic plan, partnerships and projects.
-
-## About Code for Foco
+# About Code for Fort Collins
 
 We are programmers, designers, hackers, makers, tinkerers, writers and artists and we want to have an impact on the community around us.
 
 We are dedicated to using technology to solve everyday challenges that the people, non-profits, charities, schools, government and grassroots organizations of Fort Collins face.
 
+# This Repository is...
 
-## Joining Code for Foco
+- A starting point for newcomers to learn [how to get involved](#joining-code-for-foco) or [what we are about](#about-code-for-foco).
+- A digital space for community members to track, communicate and work on [issues (tasks)](https://github.com/CodeForFoco/org/issues).
+- A public location to post and collaborate on organizational documents.
 
-Welcome to the Code For Foco! These resources will help you begin contributing to the project. If you have any questions don’t hesitate to ask for assistance at the [Meet Up](http://www.meetup.com/Code-for-Fort-Collins/).
+## How to Use This Repo
+
+1. If you need to get something done then simply [create an issue](https://github.com/CodeForFoco/org/issues/new).
+1. If you want to do something then [tackle an issue](https://github.com/CodeForFoco/org/issues).
+1. Check directories for information our strategic plan, partnerships and projects.
+
+## Joining Code for Fort Collins
+
+Welcome to the Code For Fort Collins! These resources will help you begin contributing to the project. If you have any questions don’t hesitate to ask for assistance at the [Meetup](http://www.meetup.com/Code-for-Fort-Collins/).
 
 1. Read our [Code of Conduct](https://github.com/CodeForFoco/org/blob/master/code_of_conduct.md)
-1. Join the [Foco Slack Channel](https://codeforfocoslack.herokuapp.com)
+1. Join the [Fort Collins Slack Channel](https://codeforfocoslack.herokuapp.com)
 1. Sign up for a [GitHub Account](https://github.com/join)
-1. Sign the Registry: [Code for Foco Registry](https://github.com/CodeForFoco/codeforfoco.github.io/tree/master/_posts/registry)
 
 ## Creating a new Project
 
