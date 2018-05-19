@@ -22,7 +22,7 @@ Welcome to the Code For Fort Collins! These resources will help you begin contri
 
 1. Read our [Code of Conduct](https://github.com/CodeForFoco/org/blob/master/code_of_conduct.md)
 1. Join the [Fort Collins Slack Channel](https://codeforfocoslack.herokuapp.com)
-1. Sign up for a [GitHub Account](https://github.com/join)
+1. Sign up for a [GitHub Account](https://github.com/join) (if you don't have one) and check out or repositories. (This is one 🤓)
 
 ## Creating a new Project
 
