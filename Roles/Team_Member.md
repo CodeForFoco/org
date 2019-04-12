@@ -3,7 +3,7 @@ A Team Member is an individual-contributor to a project and/or the Code for Fort
 ## Responsibilities of a Teaching Team Member include...
 
 * Follow our Code of Conduct (http://codeforfoco.org/code-of-conduct/). The too-short executive summary that should most work: don't do anything that you wouldn't do at work, and you'll be fine. 
-* Respect Cohere's space and needs. Primarily, clean up after yourself, don't take things that aren't clearly intend for you, and be friendly and respectful to Coherians who are working late.
+* Respect meeting space. Primarily, clean up after yourself, don't take things that aren't clearly intend for you, and be friendly and respectful.
 
 ## A Great Team Member will additionally....
 
