@@ -29,7 +29,7 @@ First, we've got a project we're (finally) just about done with, Solar Scorecard
 
 Next, the Homeward 2020 Data Dashboard. While this project continues to evolve having "graduated" from Code for Fort Collins, it was we who were able to help the inter-agency task force first bring the data to the public. Here's what Holly had to say about that:
 
-[emailed Holly requesting this 4/4/2019]
+> Code for Fort Collins was instrumental in getting the Long-term Homeless Data Dashboard built and beta tested. They were great partners, hard and responsive workers, and we couldn't have gotten this vital tool to the community without their technical assistance. It was one of our most proud accomplishments in 2018, and we’re so grateful they made the development and launch possible.
 
 Finally, we want to highlight a project we're still working on. In collaboration with the Poudre Fire Authority, we're making it easy for fire fighters (who are the front lines to many citizen's interactions with quasi-government figures) to better connect people with free resources in the city. Things like heating assistance, wheel chairs, mental health aid and more are offered freely to many of our citizen. By better connecting these first-responders to that knowledge, we're hopeful that non-emergency situations can lead to a better connected city (well, technically, fire district).
 
