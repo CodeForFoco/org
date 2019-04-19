@@ -4,7 +4,7 @@ This week we're starting a brand new tradition at Code for Fort Collins: our ann
 
 What to expect this week? We'll be emailing (week)daily to highlight who we are, what we've done, and how you can help. 
 
-And if you're not busy, we'd love to meet you in person! We plan to be at Odell from 2pm to 4pm on Saturday. If you're not busy that afternoon, we'd love to see you and chat about Code for Fort Collins. (Or anything else you'd like to chat about that's within our Code of Conduct. This doesn't need to be a single-purpose afternoon.)
+And if you're not busy, we want to see you in person! We plan to be at Odell from 2pm to 4pm on Saturday. If you're not busy that afternoon, we'd love to see you and chat about Code for Fort Collins. (Or anything else you'd like to chat about that's within our Code of Conduct. This doesn't need to be a single-purpose afternoon.)
 
 Have a great week,<br>
 David Hayes, Captain of Code for Fort Collins
