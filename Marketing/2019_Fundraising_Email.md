@@ -28,7 +28,7 @@ PS: If you're moved to donate right now, that link is: https://tinyurl.com/CFFCD
 
 Today we want to explain some of the work that the Code for Fort Collins brigade has done in the last year that you may not know about. We think there's some really cool stuff here, and we've spent a lot of time on it.
 
-First, we've got a project we're (finally) just about done with, [Solar Scorecard](http://solar-scorecard.org/). Solar Scorecard uses the Fort Collins OpenData portal to find out about solar installations in the city, then map them are chart how we're doing relative to Boulder, and the city's energy plans.
+First, we've got a project we're (finally) just about done with, [Solar Scorecard](http://solar-scorecard.org/). Solar Scorecard uses the Fort Collins OpenData portal to find out about solar installations in the city, then map and chart how we're doing relative to Boulder, and the city's energy plans.
 
 Next, the [Homeward 2020 Data Dashboard](http://www.homeward2020.org/population-dashboard/). This project continues to evolve having "graduated" from Code for Fort Collins. But in it we were able to help the inter-agency task force first bring the data to the public. Here's what Holly had to say about that:
 
