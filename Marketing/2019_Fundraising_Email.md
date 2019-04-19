@@ -6,7 +6,7 @@ What to expect this week? We'll be emailing (week)daily to highlight who we are,
 
 And if you're not busy, we'd love to meet you in person! We plan to be at Odell from 2pm to 4pm on Saturday. If you're not busy that afternoon, we'd love to see you and chat about Code for Fort Collins. (Or anything else you'd like to chat about that's within our Code of Conduct. This doesn't need to be a single-purpose afternoon.)
 
-Have a great week,
+Have a great week,<br>
 David Hayes, Captain of Code for Fort Collins
 
 # What is Code for Fort Collins?
@@ -19,7 +19,7 @@ Code for America serves as CFFC's "fiduciary," which is a fancy way to say they 
 
 Members of Code for Fort Collins return becuase they care about the community. They make friends, learn things, and generally do it for love. But they'd love CFFC a little more with a nice dinner during meetings. And if they could have a little less logistical complexity figuring out how to budget for simple thing like web hosting for projects. That's what this fundraising drive is about.
 
-See you tomorrow,
+See you tomorrow,<br>
 David
 
 PS: If you're moved to donate right now, that link is: https://tinyurl.com/CFFCDonate
@@ -36,7 +36,7 @@ Next, the [Homeward 2020 Data Dashboard](http://www.homeward2020.org/population-
 
 Finally, we want to highlight a project we're still working on. In collaboration with the Poudre Fire Authority, we're making it easy for fire fighters (who are the front lines to many citizen's interactions with quasi-government figures) to better connect people with free resources in the city. Things like heating assistance, wheelchairs, mental health aid and more are offered freely to many of our citizen. By better connecting these first-responders to knowledge and access to these services, we're hopeful that non-emergency situations can lead to a better connected city (well, technically, fire district).
 
-See you tomorrow,
+See you tomorrow,<br>
 David
 
 # How You Can Help
@@ -47,7 +47,7 @@ There are many ways. The biggest reason we're writing today is the most concrete
 
 If money's not what you've got to give, we'd also love your help in other ways. Primarily, you can either join our team or share knowledge of our work with interested people. We're always both looking for new projects and new volunteers. If you'd like to know more about either, join us on [Meetup](https://www.meetup.com/Code-for-Fort-Collins/) or get in touch with people@codeforfoco.org.
 
-Thanks,
+Thanks,<br>
 David
 
 # Last Call, We'll See You Tomorrow (Saturday)
@@ -58,5 +58,5 @@ And please consider joining us tomorrow at Odell from 2pm to 4pm. We'll just be 
 
 We hope to see you then!
 
-Thanks again,
+Thanks again,<br>
 David
