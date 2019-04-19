@@ -45,7 +45,7 @@ Hopefully by now we've convinced you that Code for Fort Collins is a good organi
 
 There are many ways. The biggest reason we're writing today is the most concrete: you can donate funds to our cause. It's pretty simple, you'll just click the link, and Code for America will make sure we spend your tax-deductible donation responsibly. Here's the link: https://tinyurl.com/CFFCDonate
 
-If money's not what you've got to give, we'd also love your help in other ways. Primarily, you can either join our team or share knowledge of our work with interested people. We're always both looking for new projects and new volunteers. If you'd like to know more about either, join us on [Meetup](https://www.meetup.com/Code-for-Fort-Collins/) or get in touch with people@codeforfoco.org.
+If money's not what you've got to give, we'd also love your help in other ways. Primarily, you can either join our team or share knowledge of our work with interested people. We're always looking for both new projects and new volunteers. If you'd like to know more about either, join us on [Meetup](https://www.meetup.com/Code-for-Fort-Collins/) or get in touch with people@codeforfoco.org.
 
 Thanks,<br>
 David
