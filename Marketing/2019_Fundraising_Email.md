@@ -56,7 +56,7 @@ Happy Friday! This is our last call for donations. If we've convinced you this w
 
 And please consider joining us tomorrow at Odell from 2pm to 4pm. We'll just be hanging out, chatting with folks like you about technology, the movies, and our great northern Colorado climate. It'll be a fun and easy time.
 
-We hope to see you then!
+We hope to see you then! (You'll find me as a 5'11" bald man in a Code for America jacket and wearing, holding, and/or standing near a Code for Fort Collins sign.)
 
 Thanks again,<br>
 David
