@@ -1,10 +1,10 @@
 # Hi! It's CFFC Fundraising Week, We'll Have a Party on Saturday
 
-This week we're starting a brand new tradition at Code for Fort Collins: our annual fundraising drive. Why fundraise? So we're better able to cover our incidental costs. Thing like food, SaaS plans we need, and paying rent for meeting space. Remember, Code for Fort Collins is a completely volunteer organization, and that donations to us (through Code for America, more on that tomorrow) are completely tax deductible. There's a real 501(c)3 here 🤓
+This week we're starting a brand new tradition at Code for Fort Collins: our annual fundraising drive. Why fundraise? So we're better able to cover our incidental costs. Things like food, SaaS plans we need, and paying rent for a meeting space. Remember, Code for Fort Collins is a completely volunteer organization, and that donations to us (through Code for America, more on that tomorrow) are completely tax deductible. There's a real 501(c)3 here 🤓
 
-What to expect this week? We'll be emailing (week)daily to highlight who we are, what we've done, and how you can help. 
+What to expect this week? We'll be emailing daily this week to highlight who we are, what we've done, and how you can help.
 
-And if you're not busy, we want to see you in person! We plan to be at Odell from 2pm to 4pm on Saturday. If you're not busy that afternoon, we'd love to see you and chat about Code for Fort Collins. (Or anything else you'd like to chat about that's within our Code of Conduct. This doesn't need to be a single-purpose afternoon.)
+And if you're not busy, we want to see you in person! We will be at Odell from 2pm to 4pm on Saturday. If you're not busy that afternoon, we'd love to see you and chat about Code for Fort Collins. (Or anything else you'd like to chat about that's within our Code of Conduct. This doesn't need to be a single-purpose afternoon.)
 
 Have a great week,<br>
 David Hayes, Captain of Code for Fort Collins
@@ -13,11 +13,11 @@ David Hayes, Captain of Code for Fort Collins
 
 As you may know as a member, Code for Fort Collins (CFFC) is a technology meetup group. But we're more than that: we're a volunteer team that's trying to improve Fort Collins and serve the citizens of northern Colorado. We do that through using our technology, design, marketing, and other skills. But we're also giving our time and energy.
 
-Code for Fort Collins is supported in this mission by Code for America. Code for America is a non-profit that builds technology tools for governments (you may have heard of Clear My Record or CalFresh) and organizes a brigade program. CFFC is a Code for America brigade. 
+Code for Fort Collins is supported in this mission by Code for America. Code for America is a non-profit that builds technology tools for governments (you may have heard of Clear My Record or CalFresh) and organizes a brigade program. CFFC is a Code for America brigade.
 
 Code for America serves as CFFC's "fiduciary," which is a fancy way to say they manage our money. They handle our donations, reimburse us for expenses, and also make sure that we're using donated money on reasonable things (technology, food for meetings, etc) and not, say, a ski pass for me.
 
-Members of Code for Fort Collins return becuase they care about the community. They make friends, learn things, and generally do it for love. But they'd love CFFC a little more with a nice dinner during meetings. And if they could have a little less logistical complexity figuring out how to budget for simple thing like web hosting for projects. That's what this fundraising drive is about.
+Members of Code for Fort Collins return becuase they care about the community. They make friends, learn things, and generally do it for love. But they'd love CFFC a little more with dinner during meetings. And if they could have a little less logistical complexity figuring out how to budget for simple thing like web hosting for projects. That's what this fundraising drive is about.
 
 See you tomorrow,<br>
 David
@@ -35,6 +35,8 @@ Next, the [Homeward 2020 Data Dashboard](http://www.homeward2020.org/population-
 > Code for Fort Collins was instrumental in getting the Long-term Homeless Data Dashboard built and beta tested. They were great partners, hard and responsive workers, and we couldn't have gotten this vital tool to the community without their technical assistance. It was one of our most proud accomplishments in 2018, and we’re so grateful they made the development and launch possible.
 
 Finally, we want to highlight a project we're still working on. In collaboration with the Poudre Fire Authority, we're making it easy for fire fighters (who are the front lines to many citizen's interactions with quasi-government figures) to better connect people with free resources in the city. Things like heating assistance, wheelchairs, mental health aid and more are offered freely to many of our citizen. By better connecting these first-responders to knowledge and access to these services, we're hopeful that non-emergency situations can lead to a better connected city (well, technically, fire district).
+
+If you're interested in supporting further projects like Solar Scorecard, Homeward 2020, and the Fire Department project, donate now: https://tinyurl.com/CFFCDonate
 
 See you tomorrow,<br>
 David
